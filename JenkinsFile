@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/AbdulMannan-K/mlops-class-activity-3.git'
+                git 'https://github.com/hashaam-011/Mlops_ClassActivity.git'
             }
         }
 
